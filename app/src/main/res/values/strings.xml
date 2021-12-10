@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Organizator</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="dMode">Dark mode</string>
+    <string name="ntf">Notifications</string>
+    <string name="name">Name</string>
+    <string name="e_mail">e-mail</string>
+    <string name="pass">password</string>
+    <string name="phone">phone #</string>
+    <string name="sign_in">sign in</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="activity">Activity</string>
+    <string name="send_mail">send -mail</string>
+
+    <string-array name="to_do_list">
+        <item>Daily activities</item>
+        <item>Shopping</item>
+        <item>Pay bills</item>
+        <item>Car wash</item>
+        <item>Work project</item>
+        <item>Watch Arsenal</item>
+    </string-array>
+</resources>
